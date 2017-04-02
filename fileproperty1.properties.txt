@@ -6,4 +6,4 @@ xpath4= AuthenticationFG.USER_PRINCIPAL
 value1 = sd533570722
 xpath5 =AuthenticationFG.ACCESS_CODE
 value2 = Himommy99!!
-xpath6= VALIDATE_CREDENTIALS1
+xpath6= VALIDATE
