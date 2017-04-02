@@ -1,9 +1,0 @@
-url = https://www.icicibank.com/
-xpath1 = 1/a
-xpath2 = //div[3]/div/ul/li/a
-xpath3= //div[2]/div/div/div/div/div[4]/a
-xpath4= AuthenticationFG.USER_PRINCIPAL
-value1 = sd533570722
-xpath5 =AuthenticationFG.ACCESS_CODE
-value2 = Himommy99!!
-xpath6= VALIDATE
